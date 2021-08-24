@@ -1,6 +1,6 @@
 # HelloShiftLeft-DotNet
 This repository will contain an evolving set of .NET applications that can be used for testing.
-
+     
 ## Current Status
 Applications are being created for internal developer-only testing of the .NET pipeline. As the pipeline matures, the status of applications for use in internal and/or customer demonstrations will be shown here.
 
